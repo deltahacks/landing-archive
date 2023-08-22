@@ -1,13 +1,41 @@
-# Astro with Tailwind
+# Landing Archive
 
+A collection of links to all versions of the DeltaHacks landing page.
+
+<!-- image -->
+
+![DeltaHacks Landing Page](/public/og.png)
+
+<!-- build with -->
+
+## Tech Stack
+
+This project was built with [Astro](https://astro.build/), a static site generator that ships zero JavaScript by default.
+
+<!-- local development -->
+
+## Local Development
+
+To run this project locally, you will need to have [Node.js](https://nodejs.org/en/) and [pnpm](https://pnpm.io/) installed.
+
+```bash
+# Clone the repository
+git clone https://github.com/deltahacks/landing-archive.git
+
+# Navigate to the project directory
+cd landing-archive
+
+# Install dependencies
+pnpm install
+
+# Start the development server
+pnpm dev
 ```
-npm create astro@latest -- --template with-tailwindcss
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/with-tailwindcss)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/with-tailwindcss)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/with-tailwindcss/devcontainer.json)
+## Contributing
 
-Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. This example showcases how to style your Astro project with Tailwind.
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change. Mention [@Krish120003](https://krishkrish.com) in your pull request.
 
-For complete setup instructions, please see our [Tailwind Integration Guide](https://docs.astro.build/en/guides/integrations-guide/tailwind).
+## License
+
+See [LICENSE](/LICENSE) for more information.
