@@ -36,6 +36,16 @@ pnpm dev
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change. Mention [@Krish120003](https://krishkrish.com) in your pull request.
 
+## Contributors
+
+<!-- Auto generated contributors image -->
+
+![https://github.com/deltahacks/landing-archive/graphs/contributors](https://contrib.rocks/image?repo=deltahacks/landing-archive)
+
+## Get In Touch
+
+To get in touch, please open an issue or contact us at [hello@deltahacks.com](mailto:hello@deltahacks.com)
+
 ## License
 
 See [LICENSE](/LICENSE) for more information.
